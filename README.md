@@ -1,6 +1,7 @@
 ### 👋 Olá, Eu sou o Caio Souza!! 
 Sou formado em  Ánalise e Desenvolvimento de Sistemas, estou sempre em busca de me desenvolver e aprender. 
 
+![Mario_Gameplay](https://user-images.githubusercontent.com/87163650/132107716-46923a18-08bc-46fa-9464-28206e56da26.gif)
 
 
 <!---
@@ -15,9 +16,7 @@ You can click the Preview link to take a look at your changes.
 * No momento estou desenvolvendo e melhorando meu README em meu perfil✨
 
 ### :chart_with_upwards_trend: - Estatisticas do GitHub
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=CaioSouzaR&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-
+[![CaioSouzaR](https://github-readme-streak-stats.herokuapp.com/?user=CaioSouzaR&theme=blue-green)
 ### :mailbox: - Contatos
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/CaioSouzaR/)
 [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/caio-de-souza-rafael-pereira-375aa1199/)
