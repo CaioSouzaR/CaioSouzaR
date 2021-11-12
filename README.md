@@ -1,5 +1,5 @@
 ### 👋 Olá, Eu sou o Caio Souza!! 
-Sou formado em  Ánalise e Desenvolvimento de Sistemas, apaixonado por tecnologia, amo jogar jogos de video game no tempo livre, estou sempre em busca de me desenvolver e aprender. 
+Estou me formando em  Ánalise e Desenvolvimento de Sistemas, apaixonado por tecnologia, amo jogar jogos de video game no tempo livre, estou sempre em busca de me desenvolver e aprender. gosto da área de desenvolvimento back-end e tbm a área dados. 
 
 ![Mario_Gameplay](https://user-images.githubusercontent.com/87163650/132107716-46923a18-08bc-46fa-9464-28206e56da26.gif)
 
