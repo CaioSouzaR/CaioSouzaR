@@ -1,5 +1,5 @@
 ### 👋 Olá, Eu sou o Caio Souza!! 
-Estou me formando em  Ánalise e Desenvolvimento de Sistemas, apaixonado por tecnologia, amo jogar jogos de video game no tempo livre, estou sempre em busca de me desenvolver e aprender. gosto da área de desenvolvimento back-end e tbm a área de dados. 
+Sou formado em  Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, amo jogar jogos de video game no tempo livre, estou sempre em busca de me desenvolver e aprender. gosto da área de desenvolvimento back-end e tbm a área de dados. 
 
 ![Mario_Gameplay](https://user-images.githubusercontent.com/87163650/132107716-46923a18-08bc-46fa-9464-28206e56da26.gif)
 
@@ -9,10 +9,10 @@ CaioSouzaR/CaioSouzaR is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### :computer: - Atualmente estou aprendendo
+### :computer: - Atualmente estou estudando
 
 * Linguagem Python
-* Engenharia de dados
+* Python para análise de dados
 * No momento estou desenvolvendo e melhorando meu README em meu perfil✨
 
 ### :chart_with_upwards_trend: - Estatisticas do GitHub
