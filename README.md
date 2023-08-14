@@ -17,11 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :chart_with_upwards_trend: - Estatisticas do GitHub
 [![CaioSouzaR](https://github-readme-streak-stats.herokuapp.com/?user=CaioSouzaR&theme=blue-green)
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzaR&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
+
 
 ### :mailbox: - Contatos
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/CaioSouzaR/)
